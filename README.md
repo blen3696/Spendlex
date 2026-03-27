@@ -198,9 +198,6 @@ The application uses four core tables in Supabase:
 | Frontend   | Vercel   | [spendlex.vercel.app](https://spendlex.vercel.app/)        |
 | Backend    | Render   | [interswitch-hackathon-4w5u.onrender.com](https://interswitch-hackathon-4w5u.onrender.com/) |
 
-## Team
-
-Built with dedication for the **Interswitch Hackathon**.
 
 ---
 
